@@ -2,7 +2,7 @@
   "name": "pushforge",
   "version": "0.1.0",
   "description": "Self-hosted Web Push sender: VAPID keys, RFC 8291 encryption, a subscription store and a retrying delivery queue — standard browser push with zero runtime dependencies, built on Node's webcrypto.",
-  "author": "JaydenCJ",
+  "author": "JaydenCJ <aisingioro.kiyon@gmail.com>",
   "license": "MIT",
   "type": "module",
   "bin": {
